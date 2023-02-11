@@ -1,7 +1,5 @@
 package com.driver;
 
-package com.driver;
-
 public class DeliveryPartner {
 
     private String id;
